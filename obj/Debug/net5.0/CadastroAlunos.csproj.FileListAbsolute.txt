@@ -1,0 +1,16 @@
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.exe
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.deps.json
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.runtimeconfig.json
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.runtimeconfig.dev.json
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.dll
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\ref\CadastroAlunos.dll
+C:\Users\edu-f_000\dotNet\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.pdb
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.csprojAssemblyReference.cache
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.AssemblyInfoInputs.cache
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.AssemblyInfo.cs
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.dll
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\ref\CadastroAlunos.dll
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.pdb
+C:\Users\edu-f_000\dotNet\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.genruntimeconfig.cache

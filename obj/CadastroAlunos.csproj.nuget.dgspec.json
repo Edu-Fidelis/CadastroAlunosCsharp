@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edu-f_000\\dotNet\\CadastroAlunos\\CadastroAlunos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edu-f_000\\dotNet\\CadastroAlunos\\CadastroAlunos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edu-f_000\\dotNet\\CadastroAlunos\\CadastroAlunos.csproj",
+        "projectName": "CadastroAlunos",
+        "projectPath": "C:\\Users\\edu-f_000\\dotNet\\CadastroAlunos\\CadastroAlunos.csproj",
+        "packagesPath": "C:\\Users\\edu-f_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edu-f_000\\dotNet\\CadastroAlunos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edu-f_000\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
